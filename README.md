@@ -1,3 +1,8 @@
+how to install
+git clone https://github.com/alfset/ETH-Node
+cd ETH-NODE
+chmod +x start.sh && ./start.sh
+
 docker ps
 
 
